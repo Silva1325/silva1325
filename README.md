@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**Silva1325/silva1325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Miguel, a mobile developer who loves building clean, intuitive apps — especially with Flutter.
+I enjoy creating things that feel good to use and learning new ways to make apps smarter and more helpful.
 
-Here are some ideas to get you started:
+Right now, I’m also learning machine learning, simply because I’m curious and love expanding my toolkit — no specific goal, just exploring and growing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve worked on production apps across Flutter, Android, and iOS, and I care a lot about good architecture, smooth UX, and shipping things that actually help people.
+
+If you want to connect or check out what I’m building, feel free to reach out or explore my work here. 😊
+
+• Hobbies: Gym, running and playing video games
+  
