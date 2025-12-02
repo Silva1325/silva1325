@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Miguel, a mobile developer who loves building clean, intuitive apps — especially with Flutter.
+I'm Miguel, a software developer who loves building clean, intuitive apps — especially with Flutter.
 I enjoy creating things that feel good to use and learning new ways to make apps smarter and more helpful.
 
 Right now, I’m also learning machine learning, simply because I’m curious and love expanding my toolkit — no specific goal, just exploring and growing.
