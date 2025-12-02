@@ -9,5 +9,5 @@ I’ve worked on production apps across Flutter, Android, and iOS, and I care a 
 
 If you want to connect or check out what I’m building, feel free to reach out or explore my work here. 😊
 
-• Hobbies: Gym, running and playing video games
+Hobbies: Gym, running and playing video games
   
